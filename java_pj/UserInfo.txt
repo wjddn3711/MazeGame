@@ -3,5 +3,5 @@ hi 4
 score 60
 go 5
 boring 1
-wjddn 34
 hot 15
+wjddn 69
